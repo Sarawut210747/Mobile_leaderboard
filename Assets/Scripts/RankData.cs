@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 [System.Serializable]
-public struct PlayerData
+public class PlayerData
 {
     public string playerName;
     public int rankNumber;
