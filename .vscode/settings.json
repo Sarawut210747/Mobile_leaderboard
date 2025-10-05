@@ -60,13 +60,13 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
-        "*.sln": "*.csproj",
+        "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "Laderboard.sln",
+    "dotnet.defaultSolution": "Mobile_leaderboard.sln",
     "indentRainbow.colorOnWhiteSpaceOnly": false,
     "indentRainbow.colors": [
         "rgba(255,255,64,0.07)",
